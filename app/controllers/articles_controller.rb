@@ -11,7 +11,6 @@ class ArticlesController < ApplicationController
   end
 
   def edit
-   
   end
 
   def create
@@ -38,7 +37,6 @@ class ArticlesController < ApplicationController
   end
 
   def show
-    
   end
 
   def destroy
